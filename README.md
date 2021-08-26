@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**DanielAquinoIng/DanielAquinoIng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+| Lunes                                        | Martes                                       | Miercoles                                    | Jueves                                       | Viernes                                      |
+|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
+| Gestión de proyectos de software             | Gestión de proyectos de software             | Gestión de proyectos de software             | Gestión de proyectos de software             | Gestión de proyectos de software             |
+| Taller de investigación I                    | Taller de investigación I                    | Taller de investigación I                    | Taller de investigación I                    | Taller de investigación I                    |
+| Conmutación y Enrutamiento en redes de datos | Conmutación y Enrutamiento en redes de datos | Conmutación y Enrutamiento en redes de datos | Conmutación y Enrutamiento en redes de datos | Conmutación y Enrutamiento en redes de datos |
+| Sistemas Programables                        | Sistemas Programables                        | Sistemas Programables                        | Sistemas Programables                        |                                              |
+| Lenguajes y Autómatas II                     | Lenguajes y Autómatas II                     | Lenguajes y Autómatas II                     | Lenguajes y Autómatas II                     | Lenguajes y Autómatas II                     |
+
